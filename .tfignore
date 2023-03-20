@@ -200,3 +200,10 @@ DBSynchronization.xml
 #10.0.30
 \BusinessIntelligence
 \MonitoringAndTelemetry
+
+#10.0.32
+\ArchiveService
+\ExportControl
+\FinTag
+\GlobalizationLTM
+\Microservices
