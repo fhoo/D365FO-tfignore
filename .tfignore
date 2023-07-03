@@ -208,3 +208,8 @@ DBSynchronization.xml
 \GlobalizationLTM
 \Microservices
 \SupplyChainPlanning
+
+#10.0.34
+\ATLTestCaseCommon
+\Bundle
+\WHSTests
