@@ -213,3 +213,9 @@ DBSynchronization.xml
 \ATLTestCaseCommon
 \Bundle
 \WHSTests
+
+#10.0.35
+\Globalizationfeature
+\ProcessAdvisorIntegration
+\WarehouseOrders
+\WarehouseOrdersIntegration
