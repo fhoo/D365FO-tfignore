@@ -219,3 +219,8 @@ DBSynchronization.xml
 \ProcessAdvisorIntegration
 \WarehouseOrders
 \WarehouseOrdersIntegration
+
+#10.0.38
+\FieldServiceIntegration
+\PayrollIntegration
+\SCMCopilot
