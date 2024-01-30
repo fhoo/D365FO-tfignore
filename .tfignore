@@ -1,5 +1,5 @@
 ﻿################################################################################
-# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.35
+# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.38
 ################################################################################
 
 #Exclude not source control related folders
