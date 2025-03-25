@@ -1,5 +1,5 @@
 ﻿################################################################################
-# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.42
+# .tfignore for Dynamics 365 Finance and Operations apps - v10.0.43
 ################################################################################
 
 #Exclude not source control related folders
@@ -231,3 +231,6 @@ DBSynchronization.xml
 #10.0.42
 \ApplicationWebComponents
 \ImmersiveExperiences
+
+#10.0.43
+\AdvancedQualityManagement
