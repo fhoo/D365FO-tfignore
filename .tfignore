@@ -245,3 +245,6 @@ DBSynchronization.xml
 \FinDimTypes
 \GlobalJournal
 \GlobalJournalCore
+
+#10.0.49
+\CostEngine
